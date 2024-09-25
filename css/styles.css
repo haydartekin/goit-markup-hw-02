@@ -39,7 +39,7 @@ body {
     background-color: white;
 }
 
-.name-container {
+.logo-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
